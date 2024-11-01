@@ -1,4 +1,4 @@
-# 🌐 **FrontEnd Developer**
+# 🌐 **Frontend Developer**
 
 🔹 **Hi, I'm ariel just a frontend developer from israel, fluent in sleeping and overworking myself for fun**  
 
