@@ -1,6 +1,7 @@
 # 🌐 **Frontend Developer**
 
 🔹 **Hi, I'm ariel just a frontend developer from israel, fluent in sleeping and overworking myself for fun**  
+🔹 **17 y/o, I use FreeBSD btw**  
 
 ---
 
