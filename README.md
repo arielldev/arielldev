@@ -1,24 +1,26 @@
 # 🌐 **Experienced FrontEnd Developer**
 
-🔹 **Adept in all stages of advanced web development**  
+🔹 **Adept in all stages of frontend development**  
 🔹 **Knowledgeable in user interface (UI), testing, and debugging processes**
 
 ---
 
 ### **Skills:**
 - **Frontend Stack:**  
-  ![HTML](https://via.placeholder.com/20x20?text=HTML) HTML  
-  ![CSS](https://via.placeholder.com/20x20?text=CSS) CSS  
-  ![JavaScript](https://via.placeholder.com/20x20?text=JS) JavaScript  
-  ![React](https://via.placeholder.com/20x20?text=React) React  
-  ![React Native](https://via.placeholder.com/20x20?text=ReactNative) React Native  
-  ![TypeScript](https://via.placeholder.com/20x20?text=TS) TypeScript  
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); justify-items: center; margin: 20px 0;">
+    <img src="https://via.placeholder.com/60x60?text=HTML" alt="HTML" />
+    <img src="https://via.placeholder.com/60x60?text=CSS" alt="CSS" />
+    <img src="https://via.placeholder.com/60x60?text=JS" alt="JavaScript" />
+    <img src="https://via.placeholder.com/60x60?text=React" alt="React" />
+    <img src="https://via.placeholder.com/60x60?text=ReactNative" alt="React Native" />
+    <img src="https://via.placeholder.com/60x60?text=TS" alt="TypeScript" />
+  </div>
 
 ---
 
 ### **Projects:**
 - **ReadySetStoresMaker**  
-  ReadySetStoresMaker is a comprehensive app for creating and managing online stores.  
+  An all-in-one app to easily create your e-commerce website. Select components, personalize your store, and start managing products and orders seamlessly.  
   Explore the project at [readysetstores.com](https://readysetstores.com).
 
 ---
