@@ -1,7 +1,6 @@
-# 🌐 **Experienced FrontEnd Developer**
+# 🌐 **FrontEnd Developer**
 
-🔹 **Adept in all stages of frontend development**  
-🔹 **Knowledgeable in user interface (UI), testing, and debugging processes**
+🔹 **Hi, I'm ariel just a frontend developer from israel, fluent in sleeping and overworking myself for fun **  
 
 ---
 
