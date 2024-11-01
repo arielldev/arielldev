@@ -18,7 +18,7 @@
 
 ---
 
-### **Projects:**
+### **Current Project:**
 - **ReadySetStoresMaker**  
   An all-in-one app to easily create your e-commerce website. Select components, personalize your store, and start managing products and orders seamlessly.  
   Explore the project at [readysetstores.com](https://readysetstores.com).
