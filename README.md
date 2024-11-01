@@ -1,4 +1,4 @@
-# 🌐 **Experienced Web Developer**
+# 🌐 **Experienced FrontEnd Developer**
 
 🔹 **Adept in all stages of advanced web development**  
 🔹 **Knowledgeable in user interface (UI), testing, and debugging processes**
@@ -6,21 +6,22 @@
 ---
 
 ### **Skills:**
-- **Frontend:** HTML, CSS, JavaScript, React, React Native, TypeScript
-- **Backend (Basic Knowledge):** Node.js, Express.js, MongoDB, SQL
-- **Tools:** Git, Webpack, npm, Yarn, Firebase, AWS
+- **Frontend Stack:**  
+  ![HTML](https://via.placeholder.com/20x20?text=HTML) HTML  
+  ![CSS](https://via.placeholder.com/20x20?text=CSS) CSS  
+  ![JavaScript](https://via.placeholder.com/20x20?text=JS) JavaScript  
+  ![React](https://via.placeholder.com/20x20?text=React) React  
+  ![React Native](https://via.placeholder.com/20x20?text=ReactNative) React Native  
+  ![TypeScript](https://via.placeholder.com/20x20?text=TS) TypeScript  
 
 ---
 
 ### **Projects:**
-- **Ksed: Your Hidden Computer**  
-  *Ksed* is an encryption app designed to look and function like a basic computer,
-   complete with essential apps such as folders, settings, and a command line interface.
-   Its primary goal is to provide seamless encryption for your files, 
-   ensuring your data remains secure and hidden within a familiar interface.
-**SOON AVIAILABLE TO THE PUBLIC**
+- **ReadySetStoresMaker**  
+  ReadySetStoresMaker is a comprehensive app for creating and managing online stores.  
+  Explore the project at [readysetstores.com](https://readysetstores.com).
 
 ---
 
 ### **Contact:**
-- **Email:** [fravyprivate@gmail.com](mailto:fravyprivate@gmail.com)
+- **Email:** [arirl.elkaslasi@gmail.com](mailto:arirl.elkaslasi@gmail.com)
