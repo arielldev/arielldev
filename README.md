@@ -29,7 +29,7 @@
 ---
 
 ### **Visit My Website:**
-- Check out my portfolio at [arielelkaslasi.dev](https://arielelkaslasi.dev).
+- Check out my portfolio at [arielelkaslasi.dev](https://arielelkaslasi.dev). NOT ACTIVE FOR PERSONAL REASONS
 
 ---
 
