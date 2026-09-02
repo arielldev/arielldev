@@ -1,15 +1,7 @@
 <div align="center">
-
 <a href="https://arielelkaslasi.com"><img src="https://arielelkaslasi.com/github/s1-intro.png" width="100%" alt="Ariel Elkaslasi. Full-stack and application developer, Kfar Saba, Israel. Web apps, desktop apps, and the interfaces on top. React, Next.js, TypeScript, Tailwind, Python, PostgreSQL, Tauri. By day I build what people ask for. By night I ruin my sleep schedule for side projects. Application Developer at SHRAGA V LTD; most of what I build is client work, internal tooling, or systems I host myself, so this profile is quiet on purpose. The stack in four layers: Surface is React, Tailwind and CSS. Structure is Next.js and TypeScript. Data is Python and PostgreSQL. Shipping is Vite, Tauri and Git."></a>
-
 <a href="https://arielelkaslasi.com/#work"><img src="https://arielelkaslasi.com/github/s2-anytistic.png" width="50%" alt="Anytistic. Anime, comics and novels in one place, on any screen you own, TVs included. Self-hosted. Next.js, TypeScript, Tailwind, PostgreSQL."></a><a href="https://yeshlehamakom.vercel.app/"><img src="https://arielelkaslasi.com/github/s3-yeshlahemmakom.png" width="50%" alt="YeshLahemMakom. A platform helping business owners make their establishments accessible for people with disabilities. Live. Next.js, TypeScript, Tailwind."></a>
-
 <a href="https://arielelkaslasi.com/blog/from-teenager-to-web-developer-my-coding-journey"><img src="https://arielelkaslasi.com/github/s4-writing.png" width="100%" alt="Writing: the mistakes, left in. From teenager to web developer, an eight minute read. Minehut, a slash-crash command, and everything after it."></a>
-
 <a href="https://arielelkaslasi.com"><img src="https://arielelkaslasi.com/github/s5-now.png" width="100%" alt="Now: Application Developer at SHRAGA V LTD, owning web apps and internal tools. Going deeper on PostgreSQL, schema design and DBeaver. Running a fleet of live sites that only I can break."></a>
-
-<br>
-
 <a href="https://arielelkaslasi.com"><img src="https://arielelkaslasi.com/github/btn-site.png" height="34" alt="arielelkaslasi.com"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ariel-elk-1b6769299/"><img src="https://arielelkaslasi.com/github/btn-linkedin.png" height="34" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:ariel@elkaslasi.com"><img src="https://arielelkaslasi.com/github/btn-mail.png" height="34" alt="Email"></a>
-
 </div>
