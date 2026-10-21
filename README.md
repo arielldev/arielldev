@@ -13,6 +13,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=arielldev&label=Profile%20views&color=555555&style=flat-square" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=arielldev&base=5200&label=Profile%20views&color=555555&style=flat-square" alt="Profile views">
 
 </div>
